@@ -6,7 +6,7 @@ November 2021 - Januar 2022
 
 ## Projektvorschläge
 1. Entwicklung eines Chatbots, z.B. um Fragen zu Covid-19 zu beantworten
-2. Entwicklung eines Active Learning Tools zum interaktiven trainieren von NLP Modellen
+2. Entwicklung eines Active Learning Tools zum interaktiven Trainieren von NLP Modellen
 3. Entwicklung eines Python Pakets zur Paraphrasierung von Trainingsdaten für NLP Modelle
 4. Entwicklung einer Fake News Detection Webseite
 5. Entwicklung einer Suchmaschine für akademische Paper
